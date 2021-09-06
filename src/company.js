@@ -1,0 +1,1 @@
+alert("This is the company javascirpt file")
